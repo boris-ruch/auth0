@@ -1,0 +1,13 @@
+Auth0 -> Settings
+
+API Authorization Settings
+
+Default Audience
+Default Directory -> Username-Password-Authentication
+
+
+APIS:
+Auth0 Management API (for creating/deleting users)	
+
+Applications
+SB HEdge Management
